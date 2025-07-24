@@ -13,5 +13,5 @@ aduaneira da programação em resoluções pragmáticas com o intuito de dirimir
 para as mais demasidas dificudades quais surjam durante as rotinas laborativas.</p>
 
 
-<img src="https://github.com/sidsantos87/Projeto-Cron/blob/main/assets/Captura%20de%20tela%202025-07-24%20190752.png">
-<img src="https://github.com/sidsantos87/Projeto-Cron/blob/main/assets/Captura%20de%20tela%202025-07-24%20190826.png">
+<img src="https://github.com/sidsantos87/Projeto-Cron/blob/main/assets/Captura%20de%20tela%202025-07-24%20190752.png" height="500px" width="500px">
+<img src="https://github.com/sidsantos87/Projeto-Cron/blob/main/assets/Captura%20de%20tela%202025-07-24%20190826.png" height="350px" width="250px">
