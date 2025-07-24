@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Bitcount Prop Single", system-ui;
+    font-weight: 600;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(241, 134, 134);
+    
+}
+
+.view, .controls, P{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+button{
+    height: 80px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: grey;
+     font-size: 30px;
+}
+
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+p{
+    font-size: 100px;
+}
+
+h1{
+    font-size: 100px;
+    color: blue;
+}
